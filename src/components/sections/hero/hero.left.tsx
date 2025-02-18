@@ -34,7 +34,7 @@ const HeroLeft = (props: IProps) => {
         </span>
       </h3>
       <h3 style={{ paddingTop: 10, paddingBottom: 5 }}>
-        I'M &nbsp;
+        {t("heroSection.title1")} &nbsp;
         <strong className="brand-red">{t("appHeader.brand")}</strong>
       </h3>
       <Typewriter
@@ -56,7 +56,7 @@ const HeroLeft = (props: IProps) => {
           youtube={APP_DATA.YOUTUBE_URL}
           facebook={APP_DATA.FACEBOOK_URL}
           tiktok={APP_DATA.TIKTOK_URL}
-          udemy={APP_DATA.UDEMY_URL}
+          github={APP_DATA.GITHUB_URL}
         />
       </div>
       <div className="d-md-flex d-none gap-4">

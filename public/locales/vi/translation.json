@@ -1,28 +1,47 @@
 {
-    "appHeader": {
-        "brand": "Hỏi Dân IT",
-        "home": "Trang chủ",
-        "project": "Dự án",
-        "contact": "Liên hệ",
-        "about": "Về tác giả"
-    },
-    "heroSection": {
-        "exp": "Kinh nghiệm",
-        "cv": "Tải Resume"
-    },
-    "introSection": {
-        "about": "Giới thiệu",
-        "and": "và",
-        "heading1": "Yêu đơn phương lập trình và tôi tin rằng mình đã học hỏi được ít nhiều điều gì đó. 🤷‍♂️",
-        "heading2": "Tôi nắm vững các ngôn ngữ huyền thoại như là",
-        "heading3": "Lĩnh vực quan tâm của tôi là",
-        "heading4": "xây dựng các công nghệ web mới và các sản phẩm liên quan",
-        "heading5": "Bất cứ khi nào có thể, tôi cũng áp dụng niềm đam mê phát triển sản phẩm của mình với"
-    },
-    "experience": {
-        "title": "Kinh nghiệm làm việc"
-    },
-    "skill": {
-        "title": "Kỹ năng"
-    }
+  "appHeader": {
+    "brand": "Trần Quang Thắng",
+    "home": "Trang chủ",
+    "project": "Dự án",
+    "contact": "Liên hệ",
+    "about": "Về tác giả"
+  },
+  "heroSection": {
+    "title1": "Tôi là ",
+    "exp": "Kinh nghiệm",
+    "cv": "Tải Resume"
+  },
+  "introSection": {
+    "about": "Giới thiệu",
+    "and": "và",
+    "heading1": "Yêu đơn phương lập trình và tôi tin rằng mình đã học hỏi được ít nhiều điều gì đó. 🤷‍♂️",
+    "heading2": "Tôi nắm vững các ngôn ngữ huyền thoại như là",
+    "heading3": "Lĩnh vực quan tâm của tôi là",
+    "heading4": "xây dựng các công nghệ web mới và các sản phẩm liên quan",
+    "heading5": "Bất cứ khi nào có thể, tôi cũng áp dụng niềm đam mê phát triển sản phẩm của mình với"
+  },
+  "experience": {
+    "title": "Kinh nghiệm làm việc"
+  },
+  "skill": {
+    "title": "Kỹ năng"
+  },
+  "about": {
+    "title1": "Tôi Là",
+    "title2": "Ai",
+    "heading1": "Xin chào mọi người, tôi là Trần Quang Thắng đến từ Hồ Chí Minh, Việt Nam.",
+    "heading2": "Hiện tại, tôi đang làm việc với vai trò là một lập trình viên tự do (start-up).",
+    "heading3": "Tôi đã hoàn thành bằng Cử nhân Kỹ sư Phần mềm tại Đại học Giao thông vận tải (UTC2).",
+    "heading4": "Ngoài lập trình, tôi còn có sở thích khác như:",
+    "interest1": "Chơi game",
+    "interest2": "Viết blog về công nghệ",
+    "interest3": "Du lịch",
+    "heading5": "Theo đuổi ước mơ là cách khiến bạn trở thành người vô gia cư",
+    "title3": "Học vấn",
+    "year": "2021-2025",
+    "heading6": "Kỹ sư phần mền",
+    "heading7": "Trường đại học Giao Thông Vận Tải (UTC2)",
+    "title4": "TÌM TÔI TRÊN",
+    "title5": "LIÊN hệ tôi"
+  }
 }

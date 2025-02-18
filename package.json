@@ -1,10 +1,10 @@
 {
-  "name": "react-portfolio-hoidanit",
+  "name": "react-portfolio-tranquangthang",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "author": {
-    "name": "Hỏi Dân IT vs Eric",
+    "name": "Trần Quang Thắng",
     "url": "https://portfolio-tranquangthang.vn"
   },
   "scripts": {
