@@ -44,7 +44,7 @@ const Introduction = () => {
                         {t("introSection.and")}
                         <i>
                             <b className='text-pink-100'>
-                                {" "}
+                          
                                 Node.js
                             </b>
                         </i>
